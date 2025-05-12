@@ -35,8 +35,6 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   flutter_riverpod: ^2.6.1
-  riverpod_annotation: ^2.6.1
-  dio: ^5.8.0
   http: ^1.4.0
   page_transition: any
   font_awesome_flutter: ^10.2.0
@@ -51,8 +49,6 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
-  riverpod_generator: ^2.6.5
-  build_runner: ^2.4.15
   custom_lint: ^0.7.5
   json_serializable: ^6.9.5
 
